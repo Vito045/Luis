@@ -354,7 +354,8 @@ body {
     .workers__image {
       grid-column: 1 / -1;
       width: 100%;
-      height: auto; } }
+      height: auto;
+      display: none; } }
 
 .workers__texts {
   grid-column: 2 / -1;
